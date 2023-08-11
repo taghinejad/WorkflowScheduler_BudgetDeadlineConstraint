@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resultCharts"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_80">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Projects/Java/IaasScheduler_MultiCloudMultiWorkflow/IaasScheduler_Ta/lib/gnujaxp.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Java/IaasScheduler_MultiCloudMultiWorkflow/IaasScheduler_Ta/lib/jcommon-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Java/IaasScheduler_MultiCloudMultiWorkflow/IaasScheduler_Ta/lib/jfreechart-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Java/IaasScheduler_MultiCloudMultiWorkflow/IaasScheduler_Ta/lib/junit.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Java/IaasScheduler_MultiCloudMultiWorkflow/IaasScheduler_Ta/lib/servlet.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Java/IaasScheduler_MultiCloudMultiWorkflow/IaasScheduler_Ta/lib/excel/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Java/IaasScheduler_MultiCloudMultiWorkflow/IaasScheduler_Ta/lib/excel/poi-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Java/IaasScheduler_MultiCloudMultiWorkflow/IaasScheduler_Ta/lib/excel/poi-ooxml-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Java/IaasScheduler_MultiCloudMultiWorkflow/IaasScheduler_Ta/lib/excel/poi-ooxml-schemas-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Java/IaasScheduler_MultiCloudMultiWorkflow/IaasScheduler_Ta/lib/excel/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Java/IaasScheduler_MultiCloudMultiWorkflow/IaasScheduler_Ta/lib/jax/angus-activation-2.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Java/IaasScheduler_MultiCloudMultiWorkflow/IaasScheduler_Ta/lib/jax/jakarta.activation-api-2.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Java/IaasScheduler_MultiCloudMultiWorkflow/IaasScheduler_Ta/lib/jax/jakarta.xml.bind-api-4.0.0.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
